@@ -45,12 +45,15 @@ build/
 local.properties
 *.iml
 *.hprof
+android/app/build/outputs
 
 # node.js
 #
 node_modules/
 npm-debug.log
 yarn-error.log
+yarn.lock
+package-lock.json
 
 # BUCK
 buck-out/
@@ -63,6 +66,9 @@ buck-out/
 
 # CocoaPods
 /ios/Pods/
+/vendor/bundle/
+/ios/Podfile.lock
+ios/Podfile.lock
 
 # Expo
 .expo/

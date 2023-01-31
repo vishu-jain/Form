@@ -128,6 +128,7 @@ now-ui-react-native/
     ├── Articles.js
     ├── Components.js
     ├── Home.js
+    ├── my_info.js
     ├── Onboarding.js
     ├── Pro.js
     ├── Profile.js
